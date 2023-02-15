@@ -18,6 +18,8 @@ Workmanager for handling network problems during sending and receiving.
 
 Currently Available on Playstore (Open Testing).
 
+
+
 [![APACHE LICENSE 2.0](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/270px-Google_Play_Store_badge_EN.svg.png?20220907104002)](https://play.google.com/store/apps/details?id=com.adreal.birdmessenger)
 
 ## Known Issues
